@@ -30,8 +30,7 @@
     margin: 0 8px;
     position: relative;
     min-height: 26px;
-    
-}
+    }
 
 .header__navbar-user {
     display: flex;
